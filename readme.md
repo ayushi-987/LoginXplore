@@ -1,6 +1,5 @@
 # Employee Database management system using JsonPowerDB
 
-> > > original work by Ram Narayan ;ram.narayan072001@gmail.com
 
 ## A simple **HTML Web Application** made with **JavaScipt** and **JsonPowerDB** for **Students Database Management System**.
 
